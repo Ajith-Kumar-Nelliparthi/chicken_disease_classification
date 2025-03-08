@@ -12,7 +12,7 @@ ensure==1.0.2
 joblib
 types-pyYAML
 scipy
-Flask
-Flask-Cors
+flask
+flask-cors
 
 -e . # This is for the local package installation
